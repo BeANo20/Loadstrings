@@ -56,4 +56,10 @@ loadstring(src)()
 nameless - 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ltseverydayyou/Nameless-Admin/refs/heads/main/Source.lua", true))()
 
-FOR ANY REQUESTS TO ADD LOADSTRINGS EMAIL thomaspontal94@gmail.com
+Vercel MM2 -
+loadstring(game:HttpGet("https://syndevelops.vercel.app", true))()
+
+
+
+FOR ANY REQUESTS TO ADD LOADSTRINGS EMAIL -
+thomaspontal94@gmail.com
