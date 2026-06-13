@@ -26,7 +26,7 @@ Natural Desasters -
 loadstring(game:HttpGet('https://raw.githubusercontent.com/zeroidxx/axe-hub/refs/heads/main/axehub%20nds.txt'))()
 
 Arsenal - 
-loadstring(game:HttpGet("https://pastebin.com/raw/Y7Fv6BYd"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EndOverdosing/Soluna-API/refs/heads/main/arsenal.lua",true))()
 
 Adopt Me -
 Needs Key but is Free to get key loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/2529a5f9dfddd5523ca4e22f21cceffa.lua"))()
